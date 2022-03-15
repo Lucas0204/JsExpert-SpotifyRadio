@@ -1,0 +1,25 @@
+{
+  "name": "SpotifyRadio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js",
+    "test": "yarn node --experimental-vm-modules $(yarn bin jest) --no-cache --runInBand",
+    "test:coverage": "yarn node --experimental-vm-modules $(yarn bin jest) --no-cache --runInBand --coverage tests/unit"
+  },
+  "engines": {
+    "node": "17"
+  },
+  "devDependencies": {
+    "jest": "27",
+    "nodemon": "2"
+  },
+  "dependencies": {
+    "dotenv": "16",
+    "pino": "7.8.0",
+    "pino-pretty": "7.5.3"
+  }
+}
