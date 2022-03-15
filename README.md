@@ -1,8 +1,8 @@
 # Spotify Radio - Semana JS Expert 6.0
 
-Seja bem vindo(a) à sexta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+CRÉDITOS TOTAIS DO PROJETO: ERICK WENDEL - [GitHub - Erick Wendel](https://github.com/ErickWendel)
 
-Marque esse projeto com uma estrela 🌟
+REPOSITÓRIO ORIGINAL: [Semana Js Expert 06 - SpotifyRadio - Erick Wendel](https://github.com/ErickWendel/semana-javascript-expert06)
 
 ## Preview
 
